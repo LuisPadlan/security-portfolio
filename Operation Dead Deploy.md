@@ -4,7 +4,6 @@
 An intern was given temporary contributor access on Friday to create a test environment for experimenting. On Monday morning, I found this in the subscription, i'm investigating the damage and why this was allowed to happen.
 
 ## Environment
-One list: platform, services, tools, access level. Honest framing: "live multi-user Azure training tenant, Reader access."
 Mad Hat Labs Azure Training Platform Reader Access.
 
 ## Investigation
