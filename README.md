@@ -10,8 +10,8 @@ Contact: [email] · [LinkedIn URL]
 ## Investigations
 | # | Title | Focus | Write-up |
 |---|-------|-------|----------|
-| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | coming, week 1 |
-| 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | https://github.com/LuisPadlan/security-portfolio/blob/main/The%20Stolen%20Identity.md|
+| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | [Write-up](https://github.com/LuisPadlan/security-portfolio/blob/main/Operation%20Dead%20Deploy.md)|
+| 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | [Write-up](https://github.com/LuisPadlan/security-portfolio/blob/main/The%20Stolen%20Identity.md)|
 | 3 | Privilege Audit | RBAC and least privilege | coming, week 3 |
 | 4 | Spin Up and Lock Down | Compute attack surface | coming, week 4 |
 | 5 | Network the Operative | Network segmentation | coming, week 5 |
